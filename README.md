@@ -1,7 +1,7 @@
 # Titanic
 Titanic ML Disaster
 
-# Feature Enginnering
+# Feature Engineering
 
 -  We have filled NA values in `Age` column in train data using median.
 - `Fare` missing value in test is filled using median.
@@ -48,6 +48,6 @@ Embarked has 2 missing values, we fill them depending on their Survival class.
 | Random Forest | | |
 | Neural Netwrok | | |
 
-# Referennces
+# References
 
 1. https://www.kaggle.com/l3r4nd/titanic-prediction-with-svm
